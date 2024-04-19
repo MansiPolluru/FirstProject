@@ -1,2 +1,2 @@
 # FirstProject
-Project on Github
+first Project on Github
